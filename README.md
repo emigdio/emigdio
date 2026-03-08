@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Emigdio Camacho
 
-<!--
-**emigdio/emigdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer (Flutter & iOS)
 
-Here are some ideas to get you started:
+I specialize in building and maintaining mobile applications used in production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience includes:
+
+• Flutter development  
+• iOS development (Swift / UIKit)  
+• API integrations  
+• App Store deployments  
+• Debugging production mobile apps  
+
+---
+
+## Featured Projects
+
+### Cat Directory App
+Flutter app with pagination, filtering and API integration.
+
+https://github.com/emigdio/cat-directory-app
+
+---
+
+### PDF Library API
+REST API built with ASP.NET Core for managing PDF files.
+
+https://github.com/emigdio/pdf-library-api
+
+---
+
+## Apps I've worked on
+
+Yummy Delivery  
+https://apps.apple.com/us/app/yummy-delivery/id1506748350
+
+---
+
+## Tech Stack
+
+Mobile
+- Flutter
+- Swift
+- UIKit
+
+Backend
+- C#
+- ASP.NET Core
+- REST APIs
+
+---
+
+## Contact
+
+LinkedIn  https://www.linkedin.com/in/emigdio-camacho-calderon-71494271/
+Email  emigdiocamacho@gmail.com
