@@ -1,6 +1,6 @@
 # Hi, I'm Emigdio Camacho
 
-Mobile Developer (Flutter & iOS)
+Software & Systems Engineer | Mobile, Backend, Electronics & Technical Problem Solving
 
 I specialize in building and maintaining mobile applications used in production environments.
 
