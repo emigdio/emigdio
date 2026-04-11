@@ -16,6 +16,14 @@ Experience includes:
 
 ## Featured Projects
 
+### TallerGo
+Product prototype for a workshop discovery platform focused on helping users find nearby mechanic shops and specialized services. Built as an evolving product demo with modern web technologies.
+
+Live demo:  
+https://tallergo-72e0c.web.app/
+
+---
+
 ### Cat Directory App
 Flutter app with pagination, filtering and API integration.
 
@@ -51,6 +59,10 @@ Backend
 - C#
 - ASP.NET Core
 - REST APIs
+- PostgreSQL
+
+### Other
+- Firebase
 
 ---
 
